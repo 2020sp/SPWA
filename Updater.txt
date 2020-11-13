@@ -1,7 +1,7 @@
 { 
    "ver1":"9",
    "ver2":"0",
-   "website":"/Main.html",
+   "website":"https://2020sp.github.io/SPWA/Main.html",
    "ver3":"
    \n\nMUST Update..\nYour SP WhatsApp is OutDated!
    \nCurrent stable Re-Build v9.0:)"
