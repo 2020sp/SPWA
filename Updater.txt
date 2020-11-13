@@ -1,8 +1,8 @@
-
 { 
    "ver1":"9",
    "ver2":"0",
+   "website":"/Main.html",
    "ver3":"
    \n\nMUST Update..\nYour SP WhatsApp is OutDated!
-   \nCurrent stable Re-Build v10.0:)"
+   \nCurrent stable Re-Build v9.0:)"
 }
