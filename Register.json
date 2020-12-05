@@ -1,9 +1,9 @@
 {
-   "version":"2",
+   "version":"3",
    "users":[
       {
          "name":"Ravi Varma",
-         "deviceId":"6d78e87744c00fa1"
+         "deviceId":"6d78e87744c00fa1-"
       },
       {
          "name":"Ashish Kaushik",
