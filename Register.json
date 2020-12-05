@@ -1,5 +1,5 @@
 {
-   "version":"7",
+   "version":"8",
    "users":[
       {
          "name":"Ravi Varma",
@@ -7,7 +7,7 @@
       },
       {
          "name":"Ashish Kaushik",
-         "deviceId":"fb71579acc4c8c34-"
+         "deviceId":"fb71579acc4c8c34"
       },
       {
          "name":"Arpita Kaur",
