@@ -2,6 +2,16 @@
    "version":"1",
    "users":[
       {
+         "name":"Stallon Paris",
+         "email":"stallonperis68@gmail.com",
+         "deviceId":"e5fed69bfd756d32"
+      },
+      {
+         "name":"Mayank Joshi",
+         "email":"mayankjoshi.1811@gmail.com",
+         "deviceId":"5efe2696a7b14d05"
+      },
+      {
          "name":"Ravi Varma",
          "deviceId":"6d78e87744c00fa1"
       },
