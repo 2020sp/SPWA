@@ -2,6 +2,11 @@
    "version":"2",
    "users":[
       {
+         "name":"Sharib Ali",
+         "email":"sayyadsharibali@gmail.com",
+         "deviceId":"c8be780454147291"
+      },
+      {
          "name":"Stallon Paris",
          "email":"stallonperis68@gmail.com",
          "deviceId":"e5fed69bfd756d32"
