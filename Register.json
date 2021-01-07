@@ -2,6 +2,11 @@
    "version":"2",
    "users":[
       {
+         "name":"Sumit Mahto",
+         "email":"sumitmahto41@gmail.com",
+         "deviceId":"ac33e494b2869e31"
+      },
+      {
          "name":"Satyaprakash Shrivastav",
          "email":"satyaprakash12101999@gmail.com",
          "deviceId":"506af2d966b27cdf"
