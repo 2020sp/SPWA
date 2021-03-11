@@ -2,6 +2,11 @@
    "version":"2",
    "users":[
       {
+         "name":"Aman Kinha",
+         "email":"amankinha2@gmail.com",
+         "deviceId":"82f38a2389a6dbcd"
+      },
+      {
          "name":"Kirtan Kaushik",
          "email":"kirtanxmp@gmail.com",
          "deviceId":"32475934c3b51758"
