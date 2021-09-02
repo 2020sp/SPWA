@@ -2,6 +2,11 @@
    "version":"2",
    "users":[
       {
+         "name":"Butterfly",
+         "email":"sneha@gmail.com",
+         "deviceId":"24038343e6a9cf36"
+      },
+      {
          "name":"Sagar Borkar",
          "email":"sagarborkar@gmail.com",
          "deviceId":"9a16b09b07c4b5b9"
